@@ -71,17 +71,17 @@ The **Library Management System** is a backend API built using **Node.js** and *
 ### Postman Collection
 You can import the provided Postman collection `LibraryManagement.postman_collection.json` to test all the endpoints.
 
-### Manual Testing
-- **Screenshots** of API requests and responses are included in the `screenshots/` folder.
-- Ensure the server is running before testing.
+
 
 ---
 
 ---
 
 ## Screenshots
-- Example test cases for each endpoint are included in the `screenshots/` directory.
-
+- ![](https://i.postimg.cc/1X55GBRH/Screenshot-2024-12-15-193706.png)
+- ![](https://i.postimg.cc/W4LNWTbt/Screenshot-2024-12-15-193909.png)
+- ![](https://i.postimg.cc/jjHsBmLc/Screenshot-2024-12-15-194045.png)
+- ![](https://i.postimg.cc/qRpkrwKT/Screenshot-2024-12-15-194655.png)
 ---
 
 ## Contributing
